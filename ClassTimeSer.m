@@ -270,7 +270,6 @@ classdef ClassTimeSer
            timeSer1.timeMatlab = timeSer1.timeMatlab(times_in);
            
          end
-          
          
      end % methods
      
